@@ -5,7 +5,7 @@
     <title>Greeting</title>
 </head>
 <body>
-<h1> Hello wep
+<h1> Hello wep :${name}
 </h1>
 <br/>
 
